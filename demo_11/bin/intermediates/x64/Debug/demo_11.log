@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Project\demo_11\src\main.cpp(17,23): warning C4584: “Player”: 基类“Printable”已是“Entity”的基类
+D:\Project\demo_11\src\main.cpp(4,7): message : 参见“Printable”的声明
+D:\Project\demo_11\src\main.cpp(9,7): message : 参见“Entity”的声明
+  demo_11.vcxproj -> D:\Project\demo_11\bin\x64\Debug\demo_11.exe
